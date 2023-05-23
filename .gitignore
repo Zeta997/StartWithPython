@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+#Librerias del entorno actual
+__pycache__/
+
+#Archivos de log
+*.log
+
+#Archivos compilados y binarios
+*.pyc
+*.exe
+*.dll
+*.so
+*.out
+
+#Carpeta de entornos virtuales
+venv/
+env/
+.virtualenv/
+.DS_Store
+=======
+.DS_Store
+
+>>>>>>> 79186fa69b809aecab3027b518d7046a8e6cfc33
+=======
+.DS_Store
+>>>>>>> bc26d0d61ad8d50354fe16481f03b0522a6434ff
